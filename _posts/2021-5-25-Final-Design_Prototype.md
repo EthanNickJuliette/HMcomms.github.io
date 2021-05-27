@@ -48,33 +48,22 @@ We think that our design process was very informative and effective, and we were
 If we were to pursue HM Comms further and release it to the public, we would aim to create a version of this app that is not particular to Horace Mann, but also for other schools, or possibly to the general public. We would generalize the polls that are specifically tailored to HM in HM Comms to allow people to publish polls related to anything. In this version of the app, we would separate the various polls into different categories. Some examples of categories can be like food, school, technology, science, miscellaneous, etc. Ultimately, we would keep the same concept of allowing users to publish polls, and separating those polls into categories. That would fulfill the task of sending out polls. Another feature that we can possibly do is to put locations to post various stores, malls, and other locations. One experiment that we can conduct is to see what some of the most common categories are. We can conduct research to see if the app could apply in other settings, such as perhaps in work spaces, so that more people could use this app. 
 
 ### Appendix
-Group Proposal:
+
 [Group Proposal](https://ethannickjuliette.github.io/2020-02-26-GroupProjectProposal/)
-
-
-Team Contract(If needed)
 
 [Team Contract](https://ethannickjuliette.github.io/2020-11-08-TeamContract/)
 
-Contextual Inquiry Check-in
 [Contextual Inquiry Check-in](https://ethannickjuliette.github.io/2020-11-17-2020-Contextual-Inquiry/)
 
-
-Design Check-In:
 [Design Check-In](https://ethannickjuliette.github.io/2020-12-14-Design-Checkin/)
 
-Contextual Inquiry Analysis:
 [Contextual Inquiry Analysis](https://ethannickjuliette.github.io/2021-01-07-Contextual-Inquiry-Analysis/)
 
-Project Design Review:
 [Project Design Review:](https://ethannickjuliette.github.io/2021-02-28-ProjectDesignReview/)
 
-Paper Prototype:
 [Paper Prototype](https://ethannickjuliette.github.io/2021-03-08-PaperPrototype/)
 
-Usability Test Run
 [Usability Test Run](https://ethannickjuliette.github.io/2021-04-06-UsabilityTestRun/)
 
-Usability Test Lab:
 [Usability Test Lab](https://ethannickjuliette.github.io/2021-04-28-UsabilityTestLab/)
 
