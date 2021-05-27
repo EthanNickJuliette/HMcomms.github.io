@@ -49,7 +49,8 @@ If we were to pursue HM Comms further and release it to the public, we would aim
 
 ### Appendix
 Group Proposal:
-https://ethannickjuliette.github.io/2020-02-26-GroupProjectProposal/
+[Group Proposal](https://ethannickjuliette.github.io/2020-02-26-GroupProjectProposal/)
+
 
 Team Contract(If needed)
 https://ethannickjuliette.github.io/2020-11-08-TeamContract/
