@@ -57,22 +57,24 @@ Team Contract(If needed)
 [Team Contract](https://ethannickjuliette.github.io/2020-11-08-TeamContract/)
 
 Contextual Inquiry Check-in
-https://ethannickjuliette.github.io/2020-11-17-2020-Contextual-Inquiry/
+[Contextual Inquiry Check-in](https://ethannickjuliette.github.io/2020-11-17-2020-Contextual-Inquiry/)
+
 
 Design Check-In:
-https://ethannickjuliette.github.io/2020-12-14-Design-Checkin/
+[Design Check-In](https://ethannickjuliette.github.io/2020-12-14-Design-Checkin/)
 
 Contextual Inquiry Analysis:
-https://ethannickjuliette.github.io/2021-01-07-Contextual-Inquiry-Analysis/
+[Contextual Inquiry Analysis](https://ethannickjuliette.github.io/2021-01-07-Contextual-Inquiry-Analysis/)
 
 Project Design Review:
-https://ethannickjuliette.github.io/2021-02-28-ProjectDesignReview/
+[Project Design Review:](https://ethannickjuliette.github.io/2021-02-28-ProjectDesignReview/)
 
 Paper Prototype:
-https://ethannickjuliette.github.io/2021-03-08-PaperPrototype/
+[Paper Prototype](https://ethannickjuliette.github.io/2021-03-08-PaperPrototype/)
 
 Usability Test Run
-https://ethannickjuliette.github.io/2021-04-06-UsabilityTestRun/
+[Usability Test Run](https://ethannickjuliette.github.io/2021-04-06-UsabilityTestRun/)
 
 Usability Test Lab:
-https://ethannickjuliette.github.io/2021-04-28-UsabilityTestLab/
+[Usability Test Lab](https://ethannickjuliette.github.io/2021-04-28-UsabilityTestLab/)
+
