@@ -6,8 +6,6 @@ gh-badge: [star, fork, follow]
 tags: [Contextual Inquiry]
 comments:
 
-![Final-Design](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/ee3ab2ec0e9109b8890fb2181678a049d02b6ee1/Final-Design-Prototype.pdf)
-
 ### Title : HM Comms
 ### Each team member’s name and role
    Ethan: Member
@@ -50,19 +48,27 @@ If we were to pursue HM Comms further and release it to the public, we would aim
 ### Appendix
 Group Proposal:
 https://ethannickjuliette.github.io/2020-02-26-GroupProjectProposal/
+
 Team Contract(If needed)
 https://ethannickjuliette.github.io/2020-11-08-TeamContract/
+
 Contextual Inquiry Check-in
 https://ethannickjuliette.github.io/2020-11-17-2020-Contextual-Inquiry/
+
 Design Check-In:
 https://ethannickjuliette.github.io/2020-12-14-Design-Checkin/
+
 Contextual Inquiry Analysis:
 https://ethannickjuliette.github.io/2021-01-07-Contextual-Inquiry-Analysis/
+
 Project Design Review:
 https://ethannickjuliette.github.io/2021-02-28-ProjectDesignReview/
+
 Paper Prototype:
 https://ethannickjuliette.github.io/2021-03-08-PaperPrototype/
+
 Usability Test Run
 https://ethannickjuliette.github.io/2021-04-06-UsabilityTestRun/
+
 Usability Test Lab:
 https://ethannickjuliette.github.io/2021-04-28-UsabilityTestLab/
