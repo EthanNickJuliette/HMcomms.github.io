@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Final Design Review
+title: The Final Design Review
 subtitle: Our Final Prototype
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -32,7 +32,7 @@ We tested 3 participants who are all HM students. As we conducted more tests, we
 
 ### Final Paper Prototype
 The 2 tasks that we honed in on are sending out polls and finding club rooms. For the most part, the critical aspects of our initial design remained constant for our final one. Our home page, the place where you can perform our 2 primary tasks (finding a club room and sending out a poll), remained the same as we noticed that users had little to no problem navigating through this page. Thus, the main steps on how to send out a poll or find a club room remained the same from before.
-![final](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/final.png?raw=true)
+![final](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/final.png)
 
 ### Digital Mockup & Testing Results
 ![Page 1](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page1.png?raw=true)
