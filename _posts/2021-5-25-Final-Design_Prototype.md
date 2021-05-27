@@ -33,6 +33,8 @@ We tested 3 participants who are all HM students. As we conducted more tests, we
 ### Final Paper Prototype
 The 2 tasks that we honed in on are sending out polls and finding club rooms. For the most part, the critical aspects of our initial design remained constant for our final one. Our home page, the place where you can perform our 2 primary tasks (finding a club room and sending out a poll), remained the same as we noticed that users had little to no problem navigating through this page. Thus, the main steps on how to send out a poll or find a club room remained the same from before.
 
+
+
 ### Digital Mockup & Testing Results
 #### Task 1:  Sending out polls 
   This task is completed when the user presses on the main page, and presses the “Send out a Poll” button on the bottom left. This brings the user to the Publish a Poll page , where they input their email, the questions, answer choices and if the polls are anonymous. After that, they will submit it and it brings them to the thank you page, which brings them back to the main page.
