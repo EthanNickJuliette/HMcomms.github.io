@@ -1,3 +1,4 @@
+---
 layout: post
 title: Our Final Design Review
 subtitle: Our Final Prototype
@@ -5,6 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [Contextual Inquiry]
 comments:
+---
 
 ### Title : HM Comms
 ### Each team member’s name and role
