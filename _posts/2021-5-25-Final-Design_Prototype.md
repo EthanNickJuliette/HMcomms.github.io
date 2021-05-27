@@ -1,4 +1,4 @@
-1---
+---
 layout: post
 title: Our Final Design Review
 subtitle: Our Final Prototype
