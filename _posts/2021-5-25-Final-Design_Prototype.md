@@ -8,7 +8,7 @@ tags: [Contextual Inquiry]
 comments:
 ---
 
-#### Title: HM Comms
+### Title : HM Comms
 ### Each team member’s name and role
    Ethan: Member
   Nick: Member
@@ -29,6 +29,24 @@ We tested 3 participants who are all HM students. As we conducted more tests, we
 ### Final Paper Prototype
 The 2 tasks that we honed in on are sending out polls and finding club rooms. For the most part, the critical aspects of our initial design remained constant for our final one. Our home page, the place where you can perform our 2 primary tasks (finding a club room and sending out a poll), remained the same as we noticed that users had little to no problem navigating through this page. Thus, the main steps on how to send out a poll or find a club room remained the same from before.
 
+![Page 1](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/cbfe1956270518aec077df8689e73750ac3e4830/Page1.png)
+![Page 2](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/cbfe1956270518aec077df8689e73750ac3e4830/Page2.png)
+![Page 3](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/cbfe1956270518aec077df8689e73750ac3e4830/Page3.png)
+![Page 4](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/f376e1ddea658908f90c03c67b89fadf4cf75b7e/Page4.png)
+![Page 5](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/f376e1ddea658908f90c03c67b89fadf4cf75b7e/Page5.png)
+![Page 6](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/a951c54fa46875cabc7683d9000b6e64adf5f1f3/Page6.png)
+![Page 7](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/a951c54fa46875cabc7683d9000b6e64adf5f1f3/Page7.png)
+![Page 8](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/bc5548f527f43fd64b6d22a5ab0f4fb2eac80d4b/Page8.png)
+![Page 9](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/bc5548f527f43fd64b6d22a5ab0f4fb2eac80d4b/Page9.png)
+![Page 10](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/bc5548f527f43fd64b6d22a5ab0f4fb2eac80d4b/Page10.png)
+![Page 11](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/bc5548f527f43fd64b6d22a5ab0f4fb2eac80d4b/Page11.png)
+![Page 12](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/7744a671a3cde99e407a32bb47c16be38d4a6c4a/Page12.png)
+![Page 13](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/7744a671a3cde99e407a32bb47c16be38d4a6c4a/Page13.png)
+![Page 14](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/7744a671a3cde99e407a32bb47c16be38d4a6c4a/Page14.png)
+![Page 15](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/7744a671a3cde99e407a32bb47c16be38d4a6c4a/Page15.png)
+![Page 16](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/7744a671a3cde99e407a32bb47c16be38d4a6c4a/Page16.png)
+![Page 17](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/7744a671a3cde99e407a32bb47c16be38d4a6c4a/Page17.png)
+
 ### Digital Mockup & Testing Results
 #### Task 1:  Sending out polls 
   This task is completed when the user presses on the main page, and presses the “Send out a Poll” button on the bottom left. This brings the user to the Publish a Poll page , where they input their email, the questions, answer choices and if the polls are anonymous. After that, they will submit it and it brings them to the thank you page, which brings them back to the main page.
@@ -48,22 +66,31 @@ We think that our design process was very informative and effective, and we were
 If we were to pursue HM Comms further and release it to the public, we would aim to create a version of this app that is not particular to Horace Mann, but also for other schools, or possibly to the general public. We would generalize the polls that are specifically tailored to HM in HM Comms to allow people to publish polls related to anything. In this version of the app, we would separate the various polls into different categories. Some examples of categories can be like food, school, technology, science, miscellaneous, etc. Ultimately, we would keep the same concept of allowing users to publish polls, and separating those polls into categories. That would fulfill the task of sending out polls. Another feature that we can possibly do is to put locations to post various stores, malls, and other locations. One experiment that we can conduct is to see what some of the most common categories are. We can conduct research to see if the app could apply in other settings, such as perhaps in work spaces, so that more people could use this app. 
 
 ### Appendix
-
+Group Proposal:
 [Group Proposal](https://ethannickjuliette.github.io/2020-02-26-GroupProjectProposal/)
+
+
+Team Contract(If needed)
 
 [Team Contract](https://ethannickjuliette.github.io/2020-11-08-TeamContract/)
 
-[Contextual Inquiry Check-in](https://ethannickjuliette.github.io/2020-11-17-2020-Contextual-Inquiry/)
+Contextual Inquiry Check-in
+https://ethannickjuliette.github.io/2020-11-17-2020-Contextual-Inquiry/
 
-[Design Check-In](https://ethannickjuliette.github.io/2020-12-14-Design-Checkin/)
+Design Check-In:
+https://ethannickjuliette.github.io/2020-12-14-Design-Checkin/
 
-[Contextual Inquiry Analysis](https://ethannickjuliette.github.io/2021-01-07-Contextual-Inquiry-Analysis/)
+Contextual Inquiry Analysis:
+https://ethannickjuliette.github.io/2021-01-07-Contextual-Inquiry-Analysis/
 
-[Project Design Review:](https://ethannickjuliette.github.io/2021-02-28-ProjectDesignReview/)
+Project Design Review:
+https://ethannickjuliette.github.io/2021-02-28-ProjectDesignReview/
 
-[Paper Prototype](https://ethannickjuliette.github.io/2021-03-08-PaperPrototype/)
+Paper Prototype:
+https://ethannickjuliette.github.io/2021-03-08-PaperPrototype/
 
-[Usability Test Run](https://ethannickjuliette.github.io/2021-04-06-UsabilityTestRun/)
+Usability Test Run
+https://ethannickjuliette.github.io/2021-04-06-UsabilityTestRun/
 
-[Usability Test Lab](https://ethannickjuliette.github.io/2021-04-28-UsabilityTestLab/)
-
+Usability Test Lab:
+https://ethannickjuliette.github.io/2021-04-28-UsabilityTestLab/
