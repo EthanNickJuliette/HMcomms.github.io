@@ -53,7 +53,8 @@ Group Proposal:
 
 
 Team Contract(If needed)
-https://ethannickjuliette.github.io/2020-11-08-TeamContract/
+
+[Team Contract](https://ethannickjuliette.github.io/2020-11-08-TeamContract/)
 
 Contextual Inquiry Check-in
 https://ethannickjuliette.github.io/2020-11-17-2020-Contextual-Inquiry/
