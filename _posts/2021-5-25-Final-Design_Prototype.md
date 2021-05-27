@@ -8,7 +8,7 @@ tags: [Contextual Inquiry]
 comments:
 ---
 
-### Title : HM Comms
+#### Title: HM Comms
 ### Each team member’s name and role
    Ethan: Member
   Nick: Member
