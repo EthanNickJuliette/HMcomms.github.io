@@ -33,7 +33,23 @@ We tested 3 participants who are all HM students. As we conducted more tests, we
 ### Final Paper Prototype
 The 2 tasks that we honed in on are sending out polls and finding club rooms. For the most part, the critical aspects of our initial design remained constant for our final one. Our home page, the place where you can perform our 2 primary tasks (finding a club room and sending out a poll), remained the same as we noticed that users had little to no problem navigating through this page. Thus, the main steps on how to send out a poll or find a club room remained the same from before.
 
-
+![Page 1](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/50d71dd55ee3c76d4b3b8cc71cd14da59014341c/Page1.png)
+![Page 2](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/50d71dd55ee3c76d4b3b8cc71cd14da59014341c/Page2.png)
+![Page 3](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/50d71dd55ee3c76d4b3b8cc71cd14da59014341c/Page3.png)
+![Page 4](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/50d71dd55ee3c76d4b3b8cc71cd14da59014341c/Page4.png)
+![Page 5](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/50d71dd55ee3c76d4b3b8cc71cd14da59014341c/Page5.png)
+![Page 6](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/50d71dd55ee3c76d4b3b8cc71cd14da59014341c/Page6.png)
+![Page 7](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/50d71dd55ee3c76d4b3b8cc71cd14da59014341c/Page7.png)
+![Page 8](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/50d71dd55ee3c76d4b3b8cc71cd14da59014341c/Page8.png)
+![Page 9](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/50d71dd55ee3c76d4b3b8cc71cd14da59014341c/Page9.png)
+![Page 10](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/50d71dd55ee3c76d4b3b8cc71cd14da59014341c/Page10.png)
+![Page 11](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/50d71dd55ee3c76d4b3b8cc71cd14da59014341c/Page11.png)
+![Page 12](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/50d71dd55ee3c76d4b3b8cc71cd14da59014341c/Page12.png)
+![Page 13](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/50d71dd55ee3c76d4b3b8cc71cd14da59014341c/Page13.png)
+![Page 14](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/50d71dd55ee3c76d4b3b8cc71cd14da59014341c/Page14.png)
+![Page 15](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/50d71dd55ee3c76d4b3b8cc71cd14da59014341c/Page15.png)
+![Page 16](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/50d71dd55ee3c76d4b3b8cc71cd14da59014341c/Page16.png)
+![Page 17](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/50d71dd55ee3c76d4b3b8cc71cd14da59014341c/Page17.png)
 
 ### Digital Mockup & Testing Results
 #### Task 1:  Sending out polls 
