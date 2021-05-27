@@ -32,27 +32,11 @@ We tested 3 participants who are all HM students. As we conducted more tests, we
 
 ### Final Paper Prototype
 The 2 tasks that we honed in on are sending out polls and finding club rooms. For the most part, the critical aspects of our initial design remained constant for our final one. Our home page, the place where you can perform our 2 primary tasks (finding a club room and sending out a poll), remained the same as we noticed that users had little to no problem navigating through this page. Thus, the main steps on how to send out a poll or find a club room remained the same from before.
-![final](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/final.png)
+
+![final](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/final.png?raw=true)
 
 ### Digital Mockup & Testing Results
-![Page 1](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page1.png?raw=true)
-![Page 2](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page2.png?raw=true)
-![Page 3](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page3.png?raw=true)
-![Page 4](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page4.png?raw=true)
-![Page 5](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page5.png?raw=true)
-![Page 6](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page6.png?raw=true)
-![Page 7](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page7.png?raw=true)
-![Page 8](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page8.png?raw=true)
-![Page 9](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page9.png?raw=true)
-![Page 10](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page10.png?raw=true)
-![Page 11](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page11.png?raw=true)
-![Page 12](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page12.png?raw=true)
-![Page 13](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page13.png?raw=true)
-![Page 14](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page14.png?raw=true)
-![Page 15](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page15.png?raw=true)
-![Page 16](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page16.png?raw=true)
-![Page 17](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page17.png?raw=true)
-
+The digital mockup is shown at the bottom of the page since the images are quite large. 
 #### Task 1:  Sending out polls 
   This task is completed when the user presses on the main page, and presses the “Send out a Poll” button on the bottom left. This brings the user to the Publish a Poll page , where they input their email, the questions, answer choices and if the polls are anonymous. After that, they will submit it and it brings them to the thank you page, which brings them back to the main page.
 #### Task 2:  Finding club rooms.
@@ -89,4 +73,24 @@ If we were to pursue HM Comms further and release it to the public, we would aim
 [Usability Test Run](https://ethannickjuliette.github.io/2021-04-06-UsabilityTestRun/)
 
 [Usability Test Lab](https://ethannickjuliette.github.io/2021-04-28-UsabilityTestLab/)
+
+### Digital Prototype Images
+
+![Page 1](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page1.png?raw=true)
+![Page 2](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page2.png?raw=true)
+![Page 3](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page3.png?raw=true)
+![Page 4](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page4.png?raw=true)
+![Page 5](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page5.png?raw=true)
+![Page 6](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page6.png?raw=true)
+![Page 7](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page7.png?raw=true)
+![Page 8](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page8.png?raw=true)
+![Page 9](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page9.png?raw=true)
+![Page 10](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page10.png?raw=true)
+![Page 11](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page11.png?raw=true)
+![Page 12](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page12.png?raw=true)
+![Page 13](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page13.png?raw=true)
+![Page 14](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page14.png?raw=true)
+![Page 15](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page15.png?raw=true)
+![Page 16](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page16.png?raw=true)
+![Page 17](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page17.png?raw=true)
 
